@@ -1,11 +1,7 @@
  - 👋 Hi, I’m @berkozcan
- - 
--  💻 I am currently working on Backend and Frontend.
--  
- -  ⏳ I'm a software engineering student in Poland
- -      
+-  💻 I am currently working on Backend and Frontend.-  
+ -  ⏳ I'm a software engineering student in Poland -      
    -👨‍💻 Currently I am also interested in Frontend development
-   
    -⚡ Fun fact: I Enjoy Attending IT Events in my area.
 
 
