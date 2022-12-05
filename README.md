@@ -6,8 +6,8 @@
     💻 I am currently working on Backend and Frontend.-  
     ⏳ I'm a software engineering student in Poland -      
     👨‍💻 I am currently also interested in Frontend development
-    ⚡ I Enjoy Attending IT Events in my area.
-    📫 How to reach me :www.linkedin.com/in/BerkHamzaÖzcan - bozcan1@stu.vistula.edu.pl
+    ⚡ I Enjoy Attending IT Events in my area.  
+     📫 How to reach me :www.linkedin.com/in/BerkHamzaÖzcan - bozcan1@stu.vistula.edu.pl
 
 <!--
 **berkozcan/berkozcan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
