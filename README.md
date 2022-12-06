@@ -2,13 +2,13 @@
 
 
 
- - 👋  I’m @berkozcan
-    💻 I am currently working on Backend and Frontend.-  
-    ⏳ I'm a software engineering student in Poland -      
-    👨‍💻 I am currently also interested in Frontend development
-    ⚡ I Enjoy Attending IT Events in my area.  
-     📫 How to reach me :www.linkedin.com/in/BerkHamzaÖzcan - bozcan1@stu.vistula.edu.pl
-
+ 👋  I’m @berkozcan
+ 💻 I am currently working on Backend and Frontend.-  
+ ⏳ I'm a software engineering student in Poland -      
+ 👨‍💻 I am currently also interested in Frontend development
+ ⚡ I Enjoy Attending IT Events in my area.  
+ 📫 How to reach me :www.linkedin.com/in/BerkHamzaÖzcan - bozcan1@stu.vistula.edu.pl   
+ ✨  I will share with you all the simple projects I have done from the past to the advanced projects.
 <!--
 **berkozcan/berkozcan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
