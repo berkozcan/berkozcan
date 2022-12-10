@@ -16,7 +16,7 @@
 <img align="[ile:///C:/Users/LENOVO/Desktop/Ads%C4%B1z%20tasar%C4%B1m%20(1).png](https://www.multidots.com/importance-of-code-quality-and-coding-standard-in-software-development/)">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/berkhamza%c3%b6zcan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/berkhamza%c3%b6zcan/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/berkhamza%c3%b6zcan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/berkhamzaözcan/" height="60" width="50" /></a>
 <a href="https://kaggle.com/https://www.kaggle.com/berkozcan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/berkozcan" height="30" width="40" /></a>
 <a href="https://instagram.com/berkozcan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="berkozcan_" height="30" width="40" /></a>
 </p>
