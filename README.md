@@ -13,7 +13,7 @@
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=berkozcan)](https://github.com/anuraghazra/github-readme-stats)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=berkozcan)](https://github.com/anuraghazra/github-readme-stats)
  
-<img align="file:///C:/Users/LENOVO/Desktop/Ads%C4%B1z%20tasar%C4%B1m%20(1).png">
+<img align="[ile:///C:/Users/LENOVO/Desktop/Ads%C4%B1z%20tasar%C4%B1m%20(1).png](https://www.multidots.com/importance-of-code-quality-and-coding-standard-in-software-development/)">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/berkhamza%c3%b6zcan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/berkhamza%c3%b6zcan/" height="30" width="40" /></a>
