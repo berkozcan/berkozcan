@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm BERK HAMZA ÖZCAN</h1>
+<h2 align="center">Hi 👋 I'm BERK HAMZA ÖZCAN</h2>
 
 
 
