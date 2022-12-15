@@ -1,4 +1,5 @@
 <h2 align="center">Hi 👋 I'm BERK HAMZA ÖZCAN</h2>
+![image](https://user-images.githubusercontent.com/75091068/207935110-403d17bf-1673-46b8-a723-d4499b88b3b9.png)
 
 
 
