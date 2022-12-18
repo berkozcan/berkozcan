@@ -14,9 +14,7 @@
   👨‍💻 I am currently also interested in Frontend development.
   
   ⚡ I Enjoy Attending IT Events in my area.  
-  
-  📫 How to reach me :www.linkedin.com/in/BerkHamzaÖzcan - bozcan1@stu.vistula.edu.pl   
-  
+        
   ✨  I will share with you all the simple projects I have done from the past to the advanced projects.
  
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=berkozcan)](https://github.com/anuraghazra/github-readme-stats)
