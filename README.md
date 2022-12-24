@@ -5,8 +5,6 @@
 
 
 
-
-
   💻 I am currently working on Full Stack Development.  
   
   ⏳ I'm a software engineering student in Poland.       
@@ -44,4 +42,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-ç
