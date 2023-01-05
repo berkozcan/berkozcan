@@ -14,6 +14,8 @@
   ⚡ I Enjoy Attending IT Events in my area.  
         
   ✨  I will share with you all the simple projects I have done from the past to the advanced projects.
+  
+  👯 ![](https://komarev.com/ghpvc/?username=your-github-berkozcan&label=PROFILE+VIEWS)
  
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=berkozcan)](https://github.com/anuraghazra/github-readme-stats)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=berkozcan)](https://github.com/anuraghazra/github-readme-stats)
@@ -43,5 +45,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-/
-# BERK OZCAN
+
