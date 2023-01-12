@@ -15,7 +15,10 @@
         
   ✨  I will share with you all the simple projects I have done from the past to the advanced projects.
   
-  👯 ![](https://komarev.com/ghpvc/?username=your-github-berkozcan&label=PROFILE+VIEWS)
+  #
+  
+   
+   👯 ![](https://komarev.com/ghpvc/?username=your-github-berkozcan&label=PROFILE+VIEWS)
  
 
 
