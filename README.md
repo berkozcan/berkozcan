@@ -7,7 +7,7 @@
 
   💻 I am currently working on Full Stack Development.  
   
-  ⏳ I'm a computer engineering student in Poland.       
+  ⏳ I'm a Computer Engineering Student in Poland.       
   
   👨‍💻 I am currently also interested in Frontend development.
   
