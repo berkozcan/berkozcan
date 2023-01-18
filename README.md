@@ -26,8 +26,8 @@
  
 <img align="[ile:///C:/Users/LENOVO/Desktop/Ads%C4%B1z%20tasar%C4%B1m%20(1).png](https://www.multidots.com/importance-of-code-quality-and-coding-standard-in-software-development/)">
 <a href="https://github.com/berkozcan/berkozcan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anselal&hide=php,c,vim script,objective-c,actionscript,roff,html,javascript,css,java,&langs_count=3&theme=nord" />
-</a>
+ 
+
 
  #
  #
