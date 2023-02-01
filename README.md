@@ -13,6 +13,10 @@
   ⚡ I Enjoy Attending IT Events in my area.  
         
   ✨  I will share with you all the simple projects I have done from the past to the advanced projects.
+ 
+  📫 How to reach me: bozcan1@stu.vistula.edu.pl
+  
+
   
   #
   
