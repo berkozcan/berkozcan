@@ -14,7 +14,7 @@
         
   ✨  I will share with you all the simple projects I have done from the past to the advanced projects.
  
-  📫 How to reach me: bozcan1@stu.vistula.edu.pl
+  📫 How to reach me:  bozcan1@stu.vistula.edu.pl
   
 
   
