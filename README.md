@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm BERK HAMZA ÖZCAN</h1>
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="600" height="420" />
+
 
 
 
