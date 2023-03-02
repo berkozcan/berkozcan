@@ -39,8 +39,8 @@
 <a href="https://www.linkedin.com/in/berkhamzaözcan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/berkhamzaözcan/" height="60" width="50" /></a>
 <a href="https://www.kaggle.com/berkozcan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/berkozcan" height="60" width="50" /></a>
 <a href="https://instagram.com/berkozcan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="berkozcan_" height="60" width="50" /></a>
-  <p align="left">
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/berkhamzaozcan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/berkhamzaozcan" height="30" width="40" /></a>
+  <p>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/berkhamzaozcan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/berkhamzaozcan" height="60" width="50" /></a>
 </p>
 </p>
 
