@@ -14,6 +14,9 @@
         
   ✨  I will share with you all the simple projects I have done from the past to the advanced projects.
  
+  🏠 I’m currently based in Poland.
+
+  
   📫 How to reach me:  bozcan1@stu.vistula.edu.pl
   
 
@@ -32,7 +35,7 @@
 
 
  #
- ,
+ 
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
