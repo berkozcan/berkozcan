@@ -21,7 +21,7 @@
   
 
   
-  #
+  
   [](url)
    
    👯 ![](https://komarev.com/ghpvc/?username=your-github-berkozcan&label=PROFILE+VIEWS)
