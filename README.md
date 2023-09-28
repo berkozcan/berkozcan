@@ -1,4 +1,4 @@
-# 💫 About Me:
+ -# 💫 About Me:
 💻 I am currently working on Full Stack Development.<br><br>⏳ I'm a Computer Engineering Student in Poland.<br><br>👨‍💻 I am currently also interested in Frontend development.<br><br>⚡ I Enjoy Attending IT Events in my area.<br><br>✨ I will share with you all the simple projects I have done from the past to the advanced projects.<br><br>🏠 I’m currently based in Poland.<br><br>📫 How to reach me: bozcan1@stu.vistula.edu.pl
 
 
